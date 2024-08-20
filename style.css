@@ -220,7 +220,7 @@ nav{
 .about-jett{
     display: flex;
     align-items: center;
-    gap: 15%;
+    gap: 2rem;
     z-index: -2;
     width: 100%;
     height: 40vh;
@@ -238,7 +238,8 @@ nav{
 .jett-skills{
     display: flex;
     align-items: center;
-    gap: 1rem;
+    gap: 3rem;
+    padding-left: 10%;
 }
 
 .box{
